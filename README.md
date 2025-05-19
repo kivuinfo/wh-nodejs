@@ -33,5 +33,5 @@ wget -N https://raw.githubusercontent.com/yonggekkk/sb-nodejs/main/app.js && UUI
 -----------------------------------------------------
 -----------------------------------------------------
 
-
+### 声明：FORK来自：勇哥（https://github.com/yonggekkk/sb-nodejs）
 ### 声明：所有代码来源于Github社区与ChatGPT的整合 [eooce](https://github.com/eooce/node-ws)
